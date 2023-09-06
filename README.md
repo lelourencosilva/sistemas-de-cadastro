@@ -2,7 +2,7 @@
 
 > Status do projeto: Em desenvolvimento
 
-Para rodar, digite o comando abaixo:
+Para rodar, digite o comando
 
 ```
 node app.js

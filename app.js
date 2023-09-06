@@ -1,1 +1,5 @@
-console.log("Rodando o sistema de gerenciamento de jogos")
+newFunction();
+function newFunction() {
+    console.log("Rodando o sistema de gerenciamento de jogos");
+}
+
